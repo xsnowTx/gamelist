@@ -1,2 +1,2 @@
-# gamelist
-Play the Idle Clicker game FREE!! NO ADS!!
+# Robotics Clicker
+Play the Robotics Cliker game FREE!! NO ADS!!
